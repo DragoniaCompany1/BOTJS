@@ -1,6 +1,5 @@
 ## 📄 **README.md:**
 
-```markdown
 # 🤖 Discord Bot for SAMP Server v1.0
 **Created by: Axel (Drgxel), Ozi (Mozi)**
 
