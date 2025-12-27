@@ -1,6 +1,5 @@
 ## 📄 **File `SETUP_GUIDE.md` (Panduan Detail):**
 
-```markdown
 # 🚀 Setup Guide - Discord Bot for SAMP Server
 **Created by: Axel (Drgxel), Ozi (Mozi)**
 
