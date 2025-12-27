@@ -1,0 +1,1051 @@
+[26/12/2025, 04.28.22] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 04.28.22] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 04.28.22] [LOG] [Kata Perintah yang tersedia]: menupanel
+[26/12/2025, 04.28.22] [LOG] [Kata Perintah yang tersedia]: ping
+[26/12/2025, 04.28.22] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 04.28.22] [LOG] [Tombol yang tersedia]: tombol-kirimulang
+[26/12/2025, 04.28.22] [LOG] [Tombol yang tersedia]: tombol-pendaftaran
+[26/12/2025, 04.28.22] [LOG] [Tombol yang tersedia]: tombol-reset
+[26/12/2025, 04.28.22] [LOG] [Tombol yang tersedia]: tombol-takerole
+[26/12/2025, 04.28.23] [LOG] 
+==================================================
+[26/12/2025, 04.28.23] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 04.28.23] [LOG] ==================================================
+[26/12/2025, 04.28.23] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 04.28.23] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 04.28.23] [LOG] 📊 Servers: 3
+[26/12/2025, 04.28.23] [LOG] 👥 Users: 22
+[26/12/2025, 04.28.23] [LOG] 📝 Commands: 2
+[26/12/2025, 04.28.23] [LOG] 🔘 Buttons: 4
+[26/12/2025, 04.28.23] [LOG] 📋 Modals: 1
+[26/12/2025, 04.28.23] [LOG] ⏰ Started at: 26/12/2025, 04.28.23
+[26/12/2025, 04.28.23] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 04.28.23] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 04.28.23] [LOG] ==================================================
+[26/12/2025, 04.28.23] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 04.28.23] [LOG] ==================================================
+
+[26/12/2025, 04.28.23] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 04.30.18] [LOG] 🔘 Button clicked: tombol-pendaftaran by axelattacker
+[26/12/2025, 04.30.19] [ERROR] SHOW_MODAL_ERROR: An error occurred when showing a modal. DiscordAPIError: Interaction has already been acknowledged.
+[26/12/2025, 04.32.09] [LOG] 🔘 Button clicked: tombol-pendaftaran by axelattacker
+[26/12/2025, 04.32.10] [ERROR] SHOW_MODAL_ERROR: An error occurred when showing a modal. DiscordAPIError: Interaction has already been acknowledged.
+[26/12/2025, 04.32.19] [LOG] 📋 Modal submitted: tampilan-pendaftaran by axelattacker
+[26/12/2025, 04.32.20] [LOG] [BOT]: User (axelattacker) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Tester) Dan Pin (56371)
+[26/12/2025, 04.32.20] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 04.32.20] [LOG] [BOT]: User (axelattacker) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Tester) Dan Pin (18662)
+[26/12/2025, 04.32.20] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 04.42.42] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 04.42.42] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 04.42.42] [LOG] [Kata Perintah yang tersedia]: menupanel
+[26/12/2025, 04.42.42] [LOG] [Kata Perintah yang tersedia]: ping
+[26/12/2025, 04.42.43] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 04.42.43] [LOG] [Tombol yang tersedia]: tombol-kirimulang
+[26/12/2025, 04.42.43] [LOG] [Tombol yang tersedia]: tombol-pendaftaran
+[26/12/2025, 04.42.43] [LOG] [Tombol yang tersedia]: tombol-reset
+[26/12/2025, 04.42.43] [LOG] [Tombol yang tersedia]: tombol-takerole
+[26/12/2025, 04.42.44] [LOG] 
+==================================================
+[26/12/2025, 04.42.44] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 04.42.44] [LOG] ==================================================
+[26/12/2025, 04.42.44] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 04.42.44] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 04.42.44] [LOG] 📊 Servers: 3
+[26/12/2025, 04.42.44] [LOG] 👥 Users: 22
+[26/12/2025, 04.42.44] [LOG] 📝 Commands: 2
+[26/12/2025, 04.42.44] [LOG] 📋 Modals: 1
+[26/12/2025, 04.42.44] [LOG] ⏰ Started at: 26/12/2025, 04.42.44
+[26/12/2025, 04.42.44] [LOG] 🔘 Buttons: 4
+[26/12/2025, 04.42.44] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 04.42.44] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 04.42.44] [LOG] ==================================================
+[26/12/2025, 04.42.44] [LOG] ==================================================
+
+[26/12/2025, 04.42.44] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 04.42.44] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 04.47.35] [LOG] [BOT]: User (axelattacker) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Drgxel) Dan Pin (59645)
+[26/12/2025, 04.47.35] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 05.02.07] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 05.02.07] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 05.02.07] [LOG] [Kata Perintah yang tersedia]: menupanel
+[26/12/2025, 05.02.07] [LOG] [Kata Perintah yang tersedia]: ping
+[26/12/2025, 05.02.08] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 05.02.08] [LOG] [Tombol yang tersedia]: tombol-kirimulang
+[26/12/2025, 05.02.08] [LOG] [Tombol yang tersedia]: tombol-pendaftaran
+[26/12/2025, 05.02.08] [LOG] [Tombol yang tersedia]: tombol-reset
+[26/12/2025, 05.02.08] [LOG] [Tombol yang tersedia]: tombol-takerole
+[26/12/2025, 05.02.09] [LOG] 
+==================================================
+[26/12/2025, 05.02.09] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 05.02.09] [LOG] ==================================================
+[26/12/2025, 05.02.09] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 05.02.09] [LOG] 📊 Servers: 3
+[26/12/2025, 05.02.09] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 05.02.09] [LOG] 👥 Users: 22
+[26/12/2025, 05.02.09] [LOG] 📋 Modals: 1
+[26/12/2025, 05.02.09] [LOG] 📝 Commands: 2
+[26/12/2025, 05.02.09] [LOG] 🔘 Buttons: 4
+[26/12/2025, 05.02.09] [LOG] ⏰ Started at: 26/12/2025, 05.02.09
+[26/12/2025, 05.02.09] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 05.02.09] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 05.02.09] [LOG] ==================================================
+[26/12/2025, 05.02.09] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 05.02.09] [LOG] ==================================================
+
+[26/12/2025, 05.02.09] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 05.02.29] [ERROR] ❌ Error di command menupanel: TypeError: Cannot read properties of undefined (reading 'tag')
+[26/12/2025, 05.05.26] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 05.05.26] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 05.05.26] [LOG] [Kata Perintah yang tersedia]: menupanel
+[26/12/2025, 05.05.26] [LOG] [Kata Perintah yang tersedia]: ping
+[26/12/2025, 05.05.26] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 05.05.26] [LOG] [Tombol yang tersedia]: tombol-kirimulang
+[26/12/2025, 05.05.26] [LOG] [Tombol yang tersedia]: tombol-reset
+[26/12/2025, 05.05.26] [LOG] [Tombol yang tersedia]: tombol-pendaftaran
+[26/12/2025, 05.05.26] [LOG] [Tombol yang tersedia]: tombol-takerole
+[26/12/2025, 05.05.28] [LOG] 
+==================================================
+[26/12/2025, 05.05.28] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 05.05.28] [LOG] ==================================================
+[26/12/2025, 05.05.28] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 05.05.28] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 05.05.28] [LOG] 📊 Servers: 3
+[26/12/2025, 05.05.28] [LOG] 📝 Commands: 2
+[26/12/2025, 05.05.28] [LOG] 🔘 Buttons: 4
+[26/12/2025, 05.05.28] [LOG] 👥 Users: 22
+[26/12/2025, 05.05.28] [LOG] 📋 Modals: 1
+[26/12/2025, 05.05.28] [LOG] ⏰ Started at: 26/12/2025, 05.05.28
+[26/12/2025, 05.05.28] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 05.05.28] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 05.05.28] [LOG] ==================================================
+[26/12/2025, 05.05.28] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 05.05.28] [LOG] ==================================================
+
+[26/12/2025, 05.05.28] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 05.05.51] [ERROR] ❌ Interaction, member, atau user tidak valid
+[26/12/2025, 05.07.29] [ERROR] ❌ Interaction, member, atau user tidak valid
+[26/12/2025, 05.07.50] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 05.07.50] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 05.07.50] [LOG] [Kata Perintah yang tersedia]: ping
+[26/12/2025, 05.07.50] [LOG] [Kata Perintah yang tersedia]: menupanel
+[26/12/2025, 05.07.50] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 05.07.50] [LOG] [Tombol yang tersedia]: tombol-kirimulang
+[26/12/2025, 05.07.50] [LOG] [Tombol yang tersedia]: tombol-pendaftaran
+[26/12/2025, 05.07.50] [LOG] [Tombol yang tersedia]: tombol-reset
+[26/12/2025, 05.07.50] [LOG] [Tombol yang tersedia]: tombol-takerole
+[26/12/2025, 05.07.52] [LOG] 
+==================================================
+[26/12/2025, 05.07.52] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 05.07.52] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 05.07.52] [LOG] ==================================================
+[26/12/2025, 05.07.52] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 05.07.52] [LOG] 📊 Servers: 3
+[26/12/2025, 05.07.52] [LOG] 🔘 Buttons: 4
+[26/12/2025, 05.07.52] [LOG] 👥 Users: 22
+[26/12/2025, 05.07.52] [LOG] ⏰ Started at: 26/12/2025, 05.07.52
+[26/12/2025, 05.07.52] [LOG] 📝 Commands: 2
+[26/12/2025, 05.07.52] [LOG] 📋 Modals: 1
+[26/12/2025, 05.07.52] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 05.07.52] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 05.07.52] [LOG] ==================================================
+[26/12/2025, 05.07.52] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 05.07.52] [LOG] ==================================================
+
+[26/12/2025, 05.07.52] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 05.08.28] [ERROR] ❌ Interaction, member, atau user tidak valid
+[26/12/2025, 05.14.12] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 05.14.12] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 05.14.12] [LOG] [Kata Perintah yang tersedia]: menupanel
+[26/12/2025, 05.14.12] [LOG] [Kata Perintah yang tersedia]: ping
+[26/12/2025, 05.14.12] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 05.14.12] [LOG] [Tombol yang tersedia]: tombol-kirimulang
+[26/12/2025, 05.14.12] [LOG] [Tombol yang tersedia]: tombol-pendaftaran
+[26/12/2025, 05.14.12] [LOG] [Tombol yang tersedia]: tombol-reset
+[26/12/2025, 05.14.12] [LOG] [Tombol yang tersedia]: tombol-takerole
+[26/12/2025, 05.14.13] [LOG] 
+==================================================
+[26/12/2025, 05.14.13] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 05.14.13] [LOG] ==================================================
+[26/12/2025, 05.14.13] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 05.14.13] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 05.14.13] [LOG] 👥 Users: 22
+[26/12/2025, 05.14.13] [LOG] 📊 Servers: 3
+[26/12/2025, 05.14.13] [LOG] 📝 Commands: 2
+[26/12/2025, 05.14.13] [LOG] 📋 Modals: 1
+[26/12/2025, 05.14.13] [LOG] ⏰ Started at: 26/12/2025, 05.14.13
+[26/12/2025, 05.14.13] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 05.14.13] [LOG] 🔘 Buttons: 4
+[26/12/2025, 05.14.13] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 05.14.13] [LOG] ==================================================
+[26/12/2025, 05.14.13] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 05.14.13] [LOG] ==================================================
+
+[26/12/2025, 05.14.13] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 05.14.28] [LOG] ✅ Menu panel berhasil ditampilkan oleh axelattacker di #📝・pendaftaran
+[26/12/2025, 05.44.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 06.14.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 06.44.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 07.14.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 07.38.23] [LOG] [BOT]: User (axelattacker) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Mbut) Dan Pin (64660)
+[26/12/2025, 07.38.24] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 07.39.44] [ERROR] ❌ Unhandled Rejection at: [object Promise]
+[26/12/2025, 07.39.44] [ERROR] ❌ Reason: TypeError: IntError is not a function
+[26/12/2025, 07.44.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 08.14.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 08.44.12] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 09.08.24] [LOG] 
+============================================================
+[26/12/2025, 09.08.24] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 09.08.24] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 09.08.24] [LOG] ============================================================
+[26/12/2025, 09.08.24] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 09.08.24] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 09.08.24] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 09.08.24] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 09.08.24] [LOG] 
+📂 Total Commands Loaded: 2
+[26/12/2025, 09.08.24] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 09.08.24] [LOG]   ✅ messageCreate
+[26/12/2025, 09.08.24] [LOG]   ✅ interactionCreate
+[26/12/2025, 09.08.24] [LOG]   ✅ modalSubmit
+[26/12/2025, 09.08.24] [LOG]   ✅ ready
+[26/12/2025, 09.08.24] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 09.08.24] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 09.08.24] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 09.08.24] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 09.08.24] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 09.08.24] [LOG]   ✅ tombol-reset
+[26/12/2025, 09.08.24] [LOG]   ✅ tombol-takerole
+[26/12/2025, 09.08.24] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 09.08.24] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 09.08.24] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 09.08.24] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 09.08.24] [LOG] 
+============================================================
+[26/12/2025, 09.08.24] [LOG] ============================================================
+[26/12/2025, 09.08.24] [LOG] ✅ Commands: 2
+[26/12/2025, 09.08.24] [LOG] ✅ Buttons: 4
+[26/12/2025, 09.08.24] [LOG] ✅ Events: 4
+[26/12/2025, 09.08.24] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 09.08.24] [LOG] ✅ Modals: 1
+[26/12/2025, 09.08.24] [LOG] ============================================================
+[26/12/2025, 09.08.24] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.08.24] [LOG] ============================================================
+
+[26/12/2025, 09.08.26] [LOG] 
+==================================================
+[26/12/2025, 09.08.26] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 09.08.26] [LOG] ==================================================
+[26/12/2025, 09.08.26] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 09.08.26] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 09.08.26] [LOG] 📊 Servers: 3
+[26/12/2025, 09.08.26] [LOG] 👥 Users: 22
+[26/12/2025, 09.08.26] [LOG] 📝 Commands: 2
+[26/12/2025, 09.08.26] [LOG] 🔘 Buttons: 4
+[26/12/2025, 09.08.26] [LOG] 📋 Modals: 1
+[26/12/2025, 09.08.26] [LOG] ⏰ Started at: 26/12/2025, 09.08.26
+[26/12/2025, 09.08.26] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 09.08.26] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 09.08.26] [LOG] ==================================================
+[26/12/2025, 09.08.26] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.08.26] [LOG] ==================================================
+
+[26/12/2025, 09.08.26] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 09.10.23] [LOG] ✅ Menu panel berhasil ditampilkan oleh axelattacker di #📝・pendaftaran
+[26/12/2025, 09.10.42] [LOG] [BOT]: User (axelattacker) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Axelsamp) Dan Pin (94518)
+[26/12/2025, 09.10.42] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 09.24.52] [LOG] 
+============================================================
+[26/12/2025, 09.24.52] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 09.24.52] [LOG] ============================================================
+[26/12/2025, 09.24.52] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 09.24.52] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 09.24.52] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 09.24.52] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 09.24.52] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 09.24.53] [ERROR]   ❌ Error loading command /home/container/Commands/System/autobackup.js: Cannot find module 'node-cron'
+Require stack:
+- /home/container/Commands/System/autobackup.js
+- /home/container/Core/index.js
+- /home/container/bot-dc.js
+[26/12/2025, 09.24.53] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 09.24.53] [LOG] 
+📂 Total Commands Loaded: 3
+[26/12/2025, 09.24.53] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 09.24.53] [LOG]   ✅ interactionCreate
+[26/12/2025, 09.24.53] [LOG]   ✅ messageCreate
+[26/12/2025, 09.24.53] [LOG]   ✅ modalSubmit
+[26/12/2025, 09.24.53] [LOG]   ✅ ready
+[26/12/2025, 09.24.53] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 09.24.53] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 09.24.53] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 09.24.53] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 09.24.53] [LOG]   ✅ tombol-reset
+[26/12/2025, 09.24.53] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 09.24.53] [LOG]   ✅ tombol-takerole
+[26/12/2025, 09.24.53] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 09.24.53] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 09.24.53] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 09.24.53] [LOG] 
+============================================================
+[26/12/2025, 09.24.53] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 09.24.53] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 09.24.53] [LOG] ============================================================
+[26/12/2025, 09.24.53] [LOG] ✅ Commands: 3
+[26/12/2025, 09.24.53] [LOG] ✅ Events: 4
+[26/12/2025, 09.24.53] [LOG] ✅ Buttons: 4
+[26/12/2025, 09.24.53] [LOG] ✅ Modals: 1
+[26/12/2025, 09.24.53] [LOG] ============================================================
+[26/12/2025, 09.24.53] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.24.53] [LOG] ============================================================
+
+[26/12/2025, 09.24.54] [LOG] 
+==================================================
+[26/12/2025, 09.24.54] [LOG] ==================================================
+[26/12/2025, 09.24.54] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 09.24.54] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 09.24.54] [LOG] 📊 Servers: 3
+[26/12/2025, 09.24.54] [LOG] 👥 Users: 22
+[26/12/2025, 09.24.54] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 09.24.54] [LOG] 📝 Commands: 3
+[26/12/2025, 09.24.54] [LOG] 🔘 Buttons: 4
+[26/12/2025, 09.24.54] [LOG] 📋 Modals: 1
+[26/12/2025, 09.24.54] [LOG] ⏰ Started at: 26/12/2025, 09.24.54
+[26/12/2025, 09.24.54] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 09.24.54] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 09.24.54] [LOG] ==================================================
+[26/12/2025, 09.24.54] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.24.54] [LOG] ==================================================
+
+[26/12/2025, 09.24.54] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 09.26.00] [LOG] ⚠️ axelattacker mencoba menggunakan command backup tanpa permission
+[26/12/2025, 09.28.21] [LOG] 
+============================================================
+[26/12/2025, 09.28.21] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 09.28.21] [LOG] ============================================================
+[26/12/2025, 09.28.21] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 09.28.21] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 09.28.21] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 09.28.21] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 09.28.21] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 09.28.21] [ERROR]   ❌ Error loading command /home/container/Commands/System/autobackup.js: Cannot find module 'node-cron'
+Require stack:
+- /home/container/Commands/System/autobackup.js
+- /home/container/Core/index.js
+- /home/container/bot-dc.js
+[26/12/2025, 09.28.21] [LOG] 
+📂 Total Commands Loaded: 3
+[26/12/2025, 09.28.21] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 09.28.21] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 09.28.21] [LOG]   ✅ interactionCreate
+[26/12/2025, 09.28.21] [LOG]   ✅ messageCreate
+[26/12/2025, 09.28.21] [LOG]   ✅ modalSubmit
+[26/12/2025, 09.28.21] [LOG]   ✅ ready
+[26/12/2025, 09.28.21] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 09.28.21] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 09.28.21] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 09.28.21] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 09.28.21] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 09.28.21] [LOG]   ✅ tombol-reset
+[26/12/2025, 09.28.21] [LOG]   ✅ tombol-takerole
+[26/12/2025, 09.28.21] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 09.28.21] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 09.28.21] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 09.28.21] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 09.28.21] [LOG] 
+============================================================
+[26/12/2025, 09.28.21] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 09.28.21] [LOG] ============================================================
+[26/12/2025, 09.28.21] [LOG] ✅ Commands: 3
+[26/12/2025, 09.28.21] [LOG] ✅ Events: 4
+[26/12/2025, 09.28.21] [LOG] ✅ Modals: 1
+[26/12/2025, 09.28.21] [LOG] ============================================================
+[26/12/2025, 09.28.21] [LOG] ✅ Buttons: 4
+[26/12/2025, 09.28.21] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.28.21] [LOG] ============================================================
+
+[26/12/2025, 09.28.22] [LOG] 
+==================================================
+[26/12/2025, 09.28.22] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 09.28.22] [LOG] ==================================================
+[26/12/2025, 09.28.22] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 09.28.22] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 09.28.22] [LOG] 📊 Servers: 3
+[26/12/2025, 09.28.22] [LOG] 📝 Commands: 3
+[26/12/2025, 09.28.22] [LOG] 👥 Users: 22
+[26/12/2025, 09.28.22] [LOG] 🔘 Buttons: 4
+[26/12/2025, 09.28.22] [LOG] 📋 Modals: 1
+[26/12/2025, 09.28.22] [LOG] ⏰ Started at: 26/12/2025, 09.28.22
+[26/12/2025, 09.28.22] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 09.28.22] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 09.28.22] [LOG] ==================================================
+[26/12/2025, 09.28.22] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.28.22] [LOG] ==================================================
+
+[26/12/2025, 09.28.22] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 09.28.33] [LOG] ⚠️ axelattacker mencoba menggunakan command backup tanpa permission
+[26/12/2025, 09.30.05] [LOG] ⚠️ axelattacker mencoba menggunakan command backup tanpa permission
+[26/12/2025, 09.39.34] [LOG] 
+============================================================
+[26/12/2025, 09.39.34] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 09.39.34] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 09.39.34] [LOG] ============================================================
+[26/12/2025, 09.39.34] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 09.39.34] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 09.39.34] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 09.39.34] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 09.39.34] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 09.39.34] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 09.39.34] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 09.39.34] [LOG] 
+📂 Total Commands Loaded: 5
+[26/12/2025, 09.39.34] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 09.39.34] [LOG]   ✅ interactionCreate
+[26/12/2025, 09.39.34] [LOG]   ✅ messageCreate
+[26/12/2025, 09.39.34] [LOG]   ✅ modalSubmit
+[26/12/2025, 09.39.34] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 09.39.34] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 09.39.34] [LOG]   ✅ ready
+[26/12/2025, 09.39.34] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 09.39.34] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 09.39.34] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 09.39.34] [LOG]   ✅ tombol-takerole
+[26/12/2025, 09.39.34] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 09.39.34] [LOG]   ✅ tombol-reset
+[26/12/2025, 09.39.34] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 09.39.34] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 09.39.34] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 09.39.34] [LOG] ✅ Commands: 5
+[26/12/2025, 09.39.34] [LOG] 
+============================================================
+[26/12/2025, 09.39.34] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 09.39.34] [LOG] ============================================================
+[26/12/2025, 09.39.34] [LOG] ✅ Modals: 1
+[26/12/2025, 09.39.34] [LOG] ✅ Events: 4
+[26/12/2025, 09.39.34] [LOG] ✅ Buttons: 4
+[26/12/2025, 09.39.34] [LOG] ============================================================
+[26/12/2025, 09.39.34] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.39.34] [LOG] ============================================================
+
+[26/12/2025, 09.39.35] [LOG] 
+==================================================
+[26/12/2025, 09.39.35] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 09.39.35] [LOG] ==================================================
+[26/12/2025, 09.39.35] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 09.39.35] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 09.39.35] [LOG] 📊 Servers: 3
+[26/12/2025, 09.39.35] [LOG] 👥 Users: 22
+[26/12/2025, 09.39.35] [LOG] 📝 Commands: 5
+[26/12/2025, 09.39.35] [LOG] 🔘 Buttons: 4
+[26/12/2025, 09.39.35] [LOG] 📋 Modals: 1
+[26/12/2025, 09.39.35] [LOG] ⏰ Started at: 26/12/2025, 09.39.35
+[26/12/2025, 09.39.35] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 09.39.35] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 09.39.35] [LOG] ==================================================
+[26/12/2025, 09.39.35] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.39.35] [LOG] ==================================================
+
+[26/12/2025, 09.39.35] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 09.40.12] [LOG] ⚠️ axelattacker mencoba menggunakan command backup tanpa permission
+[26/12/2025, 09.42.45] [LOG] 
+============================================================
+[26/12/2025, 09.42.45] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 09.42.45] [LOG] ============================================================
+[26/12/2025, 09.42.45] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 09.42.45] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 09.42.45] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 09.42.45] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 09.42.45] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 09.42.45] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 09.42.45] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 09.42.45] [LOG] 
+📂 Total Commands Loaded: 5
+[26/12/2025, 09.42.45] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 09.42.45] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 09.42.45] [LOG]   ✅ interactionCreate
+[26/12/2025, 09.42.45] [LOG]   ✅ modalSubmit
+[26/12/2025, 09.42.45] [LOG]   ✅ messageCreate
+[26/12/2025, 09.42.46] [LOG]   ✅ ready
+[26/12/2025, 09.42.46] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 09.42.46] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 09.42.46] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 09.42.46] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 09.42.46] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 09.42.46] [LOG]   ✅ tombol-reset
+[26/12/2025, 09.42.46] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 09.42.46] [LOG]   ✅ tombol-takerole
+[26/12/2025, 09.42.46] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 09.42.46] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 09.42.46] [LOG] 
+============================================================
+[26/12/2025, 09.42.46] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 09.42.46] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 09.42.46] [LOG] ✅ Commands: 5
+[26/12/2025, 09.42.46] [LOG] ============================================================
+[26/12/2025, 09.42.46] [LOG] ✅ Events: 4
+[26/12/2025, 09.42.46] [LOG] ✅ Buttons: 4
+[26/12/2025, 09.42.46] [LOG] ✅ Modals: 1
+[26/12/2025, 09.42.46] [LOG] ============================================================
+[26/12/2025, 09.42.46] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.42.46] [LOG] ============================================================
+
+[26/12/2025, 09.42.47] [LOG] 
+==================================================
+[26/12/2025, 09.42.47] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 09.42.47] [LOG] ==================================================
+[26/12/2025, 09.42.47] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 09.42.47] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 09.42.47] [LOG] 📊 Servers: 3
+[26/12/2025, 09.42.47] [LOG] 📝 Commands: 5
+[26/12/2025, 09.42.47] [LOG] 👥 Users: 22
+[26/12/2025, 09.42.47] [LOG] 🔘 Buttons: 4
+[26/12/2025, 09.42.47] [LOG] 📋 Modals: 1
+[26/12/2025, 09.42.47] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 09.42.47] [LOG] ⏰ Started at: 26/12/2025, 09.42.47
+[26/12/2025, 09.42.47] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 09.42.47] [LOG] ==================================================
+[26/12/2025, 09.42.47] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.42.47] [LOG] ==================================================
+
+[26/12/2025, 09.42.47] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 09.43.45] [LOG] ⚠️ axelattacker mencoba menggunakan command backup tanpa permission
+[26/12/2025, 09.50.07] [LOG] 
+============================================================
+[26/12/2025, 09.50.07] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 09.50.07] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 09.50.07] [LOG] ============================================================
+[26/12/2025, 09.50.07] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 09.50.07] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 09.50.07] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 09.50.07] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 09.50.07] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 09.50.07] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 09.50.07] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 09.50.07] [LOG] 
+📂 Total Commands Loaded: 5
+[26/12/2025, 09.50.07] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 09.50.07] [LOG]   ✅ interactionCreate
+[26/12/2025, 09.50.07] [LOG]   ✅ messageCreate
+[26/12/2025, 09.50.07] [LOG]   ✅ ready
+[26/12/2025, 09.50.07] [LOG]   ✅ modalSubmit
+[26/12/2025, 09.50.07] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 09.50.07] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 09.50.07] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 09.50.07] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 09.50.07] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 09.50.07] [LOG]   ✅ tombol-reset
+[26/12/2025, 09.50.07] [LOG]   ✅ tombol-takerole
+[26/12/2025, 09.50.07] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 09.50.07] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 09.50.07] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 09.50.07] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 09.50.07] [LOG] 
+============================================================
+[26/12/2025, 09.50.07] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 09.50.07] [LOG] ✅ Commands: 5
+[26/12/2025, 09.50.07] [LOG] ============================================================
+[26/12/2025, 09.50.07] [LOG] ✅ Events: 4
+[26/12/2025, 09.50.07] [LOG] ✅ Buttons: 4
+[26/12/2025, 09.50.07] [LOG] ✅ Modals: 1
+[26/12/2025, 09.50.07] [LOG] ============================================================
+[26/12/2025, 09.50.07] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.50.07] [LOG] ============================================================
+
+[26/12/2025, 09.50.10] [LOG] 
+==================================================
+[26/12/2025, 09.50.10] [LOG] ==================================================
+[26/12/2025, 09.50.10] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 09.50.10] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 09.50.10] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 09.50.10] [LOG] 📝 Commands: 5
+[26/12/2025, 09.50.10] [LOG] 📊 Servers: 3
+[26/12/2025, 09.50.10] [LOG] 👥 Users: 22
+[26/12/2025, 09.50.10] [LOG] 🔘 Buttons: 4
+[26/12/2025, 09.50.10] [LOG] 📋 Modals: 1
+[26/12/2025, 09.50.10] [LOG] ⏰ Started at: 26/12/2025, 09.50.10
+[26/12/2025, 09.50.10] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 09.50.10] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 09.50.10] [LOG] ==================================================
+[26/12/2025, 09.50.10] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 09.50.10] [LOG] ==================================================
+
+[26/12/2025, 09.50.10] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 09.50.41] [LOG] ✅ Folder backups dibuat
+[26/12/2025, 09.50.42] [ERROR] ❌ Error executing mysqldump: Error: Command failed: mysqldump -h 195.88.211.202 -P 3306 -u u15_KGtaczV9r5 -p"lPt64It9C5B759Nwjz+^wL4O" s15_Xel > "/home/container/backups/backup_s15_Xel_26-12-2025,-09.50.41.sql"
+/bin/sh: 1: mysqldump: not found
+
+[26/12/2025, 10.02.31] [LOG] 
+============================================================
+[26/12/2025, 10.02.31] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 10.02.31] [LOG] ============================================================
+[26/12/2025, 10.02.31] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 10.02.31] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 10.02.31] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 10.02.31] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 10.02.31] [ERROR]   ❌ Error loading command /home/container/Commands/System/backup.js: Cannot find module 'mysql2/promise'
+Require stack:
+- /home/container/Commands/System/backup.js
+- /home/container/Core/index.js
+- /home/container/bot-dc.js
+[26/12/2025, 10.02.31] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 10.02.31] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 10.02.31] [LOG] 
+📂 Total Commands Loaded: 4
+[26/12/2025, 10.02.31] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 10.02.31] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 10.02.31] [LOG]   ✅ messageCreate
+[26/12/2025, 10.02.31] [LOG]   ✅ interactionCreate
+[26/12/2025, 10.02.31] [LOG]   ✅ modalSubmit
+[26/12/2025, 10.02.32] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 10.02.32] [LOG]   ✅ ready
+[26/12/2025, 10.02.32] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 10.02.32] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 10.02.32] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 10.02.32] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 10.02.32] [LOG]   ✅ tombol-reset
+[26/12/2025, 10.02.32] [LOG]   ✅ tombol-takerole
+[26/12/2025, 10.02.32] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 10.02.32] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 10.02.32] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 10.02.32] [LOG] 
+============================================================
+[26/12/2025, 10.02.32] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 10.02.32] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 10.02.32] [LOG] ============================================================
+[26/12/2025, 10.02.32] [LOG] ✅ Commands: 4
+[26/12/2025, 10.02.32] [LOG] ✅ Events: 4
+[26/12/2025, 10.02.32] [LOG] ✅ Buttons: 4
+[26/12/2025, 10.02.32] [LOG] ✅ Modals: 1
+[26/12/2025, 10.02.32] [LOG] ============================================================
+[26/12/2025, 10.02.32] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 10.02.32] [LOG] ============================================================
+
+[26/12/2025, 10.02.33] [LOG] 
+==================================================
+[26/12/2025, 10.02.33] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 10.02.33] [LOG] ==================================================
+[26/12/2025, 10.02.33] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 10.02.33] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 10.02.33] [LOG] 📊 Servers: 3
+[26/12/2025, 10.02.33] [LOG] 👥 Users: 22
+[26/12/2025, 10.02.33] [LOG] 📝 Commands: 4
+[26/12/2025, 10.02.33] [LOG] 🔘 Buttons: 4
+[26/12/2025, 10.02.33] [LOG] 📋 Modals: 1
+[26/12/2025, 10.02.33] [LOG] ⏰ Started at: 26/12/2025, 10.02.33
+[26/12/2025, 10.02.33] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 10.02.33] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 10.02.33] [LOG] ==================================================
+[26/12/2025, 10.02.33] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 10.02.33] [LOG] ==================================================
+
+[26/12/2025, 10.02.33] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 10.04.09] [LOG] 
+============================================================
+[26/12/2025, 10.04.09] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 10.04.09] [LOG] ============================================================
+[26/12/2025, 10.04.09] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 10.04.09] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 10.04.09] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 10.04.09] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 10.04.09] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 10.04.09] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 10.04.09] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 10.04.09] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 10.04.09] [LOG] 
+📂 Total Commands Loaded: 5
+[26/12/2025, 10.04.09] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 10.04.09] [LOG]   ✅ interactionCreate
+[26/12/2025, 10.04.09] [LOG]   ✅ modalSubmit
+[26/12/2025, 10.04.09] [LOG]   ✅ messageCreate
+[26/12/2025, 10.04.09] [LOG]   ✅ ready
+[26/12/2025, 10.04.09] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 10.04.09] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 10.04.09] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 10.04.09] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 10.04.09] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 10.04.09] [LOG]   ✅ tombol-reset
+[26/12/2025, 10.04.09] [LOG]   ✅ tombol-takerole
+[26/12/2025, 10.04.09] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 10.04.09] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 10.04.09] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 10.04.09] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 10.04.09] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 10.04.09] [LOG] 
+============================================================
+[26/12/2025, 10.04.09] [LOG] ============================================================
+[26/12/2025, 10.04.09] [LOG] ✅ Commands: 5
+[26/12/2025, 10.04.09] [LOG] ✅ Events: 4
+[26/12/2025, 10.04.09] [LOG] ============================================================
+[26/12/2025, 10.04.09] [LOG] ✅ Buttons: 4
+[26/12/2025, 10.04.09] [LOG] ✅ Modals: 1
+[26/12/2025, 10.04.09] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 10.04.09] [LOG] ============================================================
+
+[26/12/2025, 10.04.10] [LOG] 
+==================================================
+[26/12/2025, 10.04.10] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 10.04.10] [LOG] ==================================================
+[26/12/2025, 10.04.10] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 10.04.10] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 10.04.10] [LOG] 📊 Servers: 3
+[26/12/2025, 10.04.10] [LOG] 👥 Users: 22
+[26/12/2025, 10.04.10] [LOG] 📝 Commands: 5
+[26/12/2025, 10.04.10] [LOG] 🔘 Buttons: 4
+[26/12/2025, 10.04.10] [LOG] 📋 Modals: 1
+[26/12/2025, 10.04.10] [LOG] ⏰ Started at: 26/12/2025, 10.04.10
+[26/12/2025, 10.04.10] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 10.04.10] [LOG] ==================================================
+[26/12/2025, 10.04.10] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 10.04.10] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 10.04.10] [LOG] ==================================================
+
+[26/12/2025, 10.04.10] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 10.05.21] [LOG] 
+============================================================
+[26/12/2025, 10.05.21] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 10.05.21] [LOG] ============================================================
+[26/12/2025, 10.05.21] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 10.05.21] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 10.05.21] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 10.05.21] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 10.05.21] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 10.05.21] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 10.05.21] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 10.05.21] [LOG] 
+📂 Total Commands Loaded: 5
+[26/12/2025, 10.05.21] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 10.05.21] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 10.05.21] [LOG]   ✅ interactionCreate
+[26/12/2025, 10.05.21] [LOG]   ✅ messageCreate
+[26/12/2025, 10.05.21] [LOG]   ✅ modalSubmit
+[26/12/2025, 10.05.21] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 10.05.21] [LOG]   ✅ ready
+[26/12/2025, 10.05.21] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 10.05.21] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 10.05.21] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 10.05.21] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 10.05.21] [LOG]   ✅ tombol-reset
+[26/12/2025, 10.05.21] [LOG]   ✅ tombol-takerole
+[26/12/2025, 10.05.21] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 10.05.21] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 10.05.21] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 10.05.21] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 10.05.21] [LOG] 
+============================================================
+[26/12/2025, 10.05.21] [LOG] ============================================================
+[26/12/2025, 10.05.21] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 10.05.21] [LOG] ✅ Commands: 5
+[26/12/2025, 10.05.21] [LOG] ✅ Events: 4
+[26/12/2025, 10.05.21] [LOG] ✅ Buttons: 4
+[26/12/2025, 10.05.21] [LOG] ✅ Modals: 1
+[26/12/2025, 10.05.21] [LOG] ============================================================
+[26/12/2025, 10.05.21] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 10.05.21] [LOG] ============================================================
+
+[26/12/2025, 10.05.22] [LOG] 
+==================================================
+[26/12/2025, 10.05.22] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 10.05.22] [LOG] ==================================================
+[26/12/2025, 10.05.22] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 10.05.22] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 10.05.22] [LOG] 👥 Users: 22
+[26/12/2025, 10.05.22] [LOG] 📝 Commands: 5
+[26/12/2025, 10.05.22] [LOG] 📊 Servers: 3
+[26/12/2025, 10.05.22] [LOG] 🔘 Buttons: 4
+[26/12/2025, 10.05.22] [LOG] 📋 Modals: 1
+[26/12/2025, 10.05.22] [LOG] ⏰ Started at: 26/12/2025, 10.05.22
+[26/12/2025, 10.05.22] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 10.05.22] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 10.05.22] [LOG] ==================================================
+[26/12/2025, 10.05.22] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 10.05.22] [LOG] ==================================================
+
+[26/12/2025, 10.05.22] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 10.05.42] [ERROR] (node:38) DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[26/12/2025, 10.05.42] [WARN] ⚠️ Process Warning: DeprecationWarning MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+[26/12/2025, 10.05.42] [ERROR] (node:38) [DEP0044] DeprecationWarning: The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+[26/12/2025, 10.05.42] [WARN] ⚠️ Process Warning: DeprecationWarning The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+[26/12/2025, 10.35.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 11.05.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 11.35.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 12.05.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 12.35.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 13.05.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 13.35.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 14.05.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 14.35.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 15.05.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 15.35.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 16.05.21] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 16.34.47] [LOG] 
+============================================================
+[26/12/2025, 16.34.47] [LOG] 🔄 LOADING BOT MODULES
+[26/12/2025, 16.34.47] [LOG] ============================================================
+[26/12/2025, 16.34.47] [LOG] 
+📝 Loading Commands...
+[26/12/2025, 16.34.47] [LOG] 🔄 Logging in to Discord...
+[26/12/2025, 16.34.47] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[26/12/2025, 16.34.47] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[26/12/2025, 16.34.47] [LOG]   ✅ [Commands] ping (p)
+[26/12/2025, 16.34.47] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[26/12/2025, 16.34.47] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[26/12/2025, 16.34.47] [LOG] 
+📂 Total Commands Loaded: 5
+[26/12/2025, 16.34.47] [LOG]   ✅ [System] restore (restoredb, importdb)
+[26/12/2025, 16.34.47] [LOG] 
+🎭 Loading Events...
+[26/12/2025, 16.34.47] [LOG]   ✅ interactionCreate
+[26/12/2025, 16.34.47] [LOG]   ✅ messageCreate
+[26/12/2025, 16.34.47] [LOG]   ✅ modalSubmit
+[26/12/2025, 16.34.47] [LOG]   ✅ ready
+[26/12/2025, 16.34.47] [LOG] 
+📂 Total Events Loaded: 4
+[26/12/2025, 16.34.47] [LOG] 
+🔘 Loading Buttons...
+[26/12/2025, 16.34.47] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[26/12/2025, 16.34.47] [LOG]   ✅ tombol-kirimulang
+[26/12/2025, 16.34.47] [LOG]   ✅ tombol-reset
+[26/12/2025, 16.34.47] [LOG]   ✅ tombol-takerole
+[26/12/2025, 16.34.47] [LOG]   ✅ tombol-pendaftaran
+[26/12/2025, 16.34.47] [LOG] 
+📂 Total Buttons Loaded: 4
+[26/12/2025, 16.34.47] [LOG] 
+📋 Loading Modals...
+[26/12/2025, 16.34.47] [LOG]   ✅ tampilan-pendaftaran
+[26/12/2025, 16.34.47] [LOG] 
+📂 Total Modals Loaded: 1
+[26/12/2025, 16.34.47] [LOG] 📊 LOADING SUMMARY
+[26/12/2025, 16.34.47] [LOG] 
+============================================================
+[26/12/2025, 16.34.47] [LOG] ============================================================
+[26/12/2025, 16.34.47] [LOG] ✅ Commands: 5
+[26/12/2025, 16.34.47] [LOG] ✅ Events: 4
+[26/12/2025, 16.34.47] [LOG] ✅ Modals: 1
+[26/12/2025, 16.34.47] [LOG] ✅ Buttons: 4
+[26/12/2025, 16.34.47] [LOG] ============================================================
+[26/12/2025, 16.34.47] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 16.34.47] [LOG] ============================================================
+
+[26/12/2025, 16.34.49] [LOG] 
+==================================================
+[26/12/2025, 16.34.49] [LOG] 🤖 BOT INFORMATION
+[26/12/2025, 16.34.49] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[26/12/2025, 16.34.49] [LOG] ==================================================
+[26/12/2025, 16.34.49] [LOG] 🆔 Bot ID: 1303893950955786290
+[26/12/2025, 16.34.49] [LOG] 📊 Servers: 3
+[26/12/2025, 16.34.49] [LOG] 👥 Users: 22
+[26/12/2025, 16.34.49] [LOG] 📝 Commands: 5
+[26/12/2025, 16.34.49] [LOG] 🔘 Buttons: 4
+[26/12/2025, 16.34.49] [LOG] 📋 Modals: 1
+[26/12/2025, 16.34.49] [LOG] ⏰ Started at: 26/12/2025, 16.34.49
+[26/12/2025, 16.34.49] [LOG] 🔧 Node: v23.11.1
+[26/12/2025, 16.34.49] [LOG] 📦 Discord.js: v13.17.1
+[26/12/2025, 16.34.49] [LOG] ==================================================
+[26/12/2025, 16.34.49] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[26/12/2025, 16.34.49] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[26/12/2025, 16.34.49] [LOG] ==================================================
+
+[26/12/2025, 16.35.24] [ERROR] (node:38) DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[26/12/2025, 16.35.24] [WARN] ⚠️ Process Warning: DeprecationWarning MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+[26/12/2025, 16.35.24] [ERROR] (node:38) [DEP0044] DeprecationWarning: The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+[26/12/2025, 16.35.24] [WARN] ⚠️ Process Warning: DeprecationWarning The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+[26/12/2025, 16.35.25] [LOG] ✅ Backup berhasil: backup_s15_Xel_26-12-2025,-16.35.20.sql (0.16 MB) by axelattacker
+[26/12/2025, 16.36.25] [LOG] 🗑️ File backup temporary dihapus: backup_s15_Xel_26-12-2025,-16.35.20.sql
+[26/12/2025, 16.43.16] [LOG] ✅ Menu panel berhasil ditampilkan oleh axelattacker di #📝・pendaftaran
+[26/12/2025, 16.44.15] [LOG] [BOT]: User (axelattacker) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Drgxel) Dan Pin (14391)
+[26/12/2025, 16.44.15] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 17.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 17.06.08] [LOG] [BOT]: User (reyzzx67) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Reynoll) Dan Pin (16985)
+[26/12/2025, 17.06.09] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 17.34.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 18.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 18.34.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 19.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 19.34.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 20.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 20.12.02] [LOG] [BOT]: User (mang01691) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Mangg) Dan Pin (16023)
+[26/12/2025, 20.12.02] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 20.34.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 21.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 21.34.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 22.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 22.34.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 23.04.47] [LOG] 🧹 Cooldowns cleaned up
+[26/12/2025, 23.07.02] [LOG] [BOT]: User (purpleose) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Jetrho) Dan Pin (20316)
+[26/12/2025, 23.07.02] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[26/12/2025, 23.34.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 00.00.16] [LOG] [BOT]: User (faqihal) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Faqih) Dan Pin (3945)
+[27/12/2025, 00.00.16] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[27/12/2025, 00.04.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 00.17.18] [LOG] [BOT]: User (lanzstaycoll) Telah berhasil mendaftarkan akun UCP nya dengan Nama (Kotok) Dan Pin (70664)
+[27/12/2025, 00.17.19] [ERROR] Terjadi kesalahan saat mengirim pesan sukses interaksi: Interaction has already been acknowledged.
+[27/12/2025, 00.34.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 01.04.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 01.34.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 02.04.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 02.34.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 03.04.47] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 03.21.18] [LOG] 
+============================================================
+[27/12/2025, 03.21.18] [LOG] 🔄 LOADING BOT MODULES
+[27/12/2025, 03.21.18] [LOG] 
+📝 Loading Commands...
+[27/12/2025, 03.21.18] [LOG] ============================================================
+[27/12/2025, 03.21.18] [LOG] 🔄 Logging in to Discord...
+[27/12/2025, 03.21.18] [LOG] 👨‍💻 Bot created by: Axel (Drgxel), Ozi (Mozi)
+
+[27/12/2025, 03.21.18] [LOG]   ✅ [Admin] banlogs (recentbans, banhistory)
+[27/12/2025, 03.21.18] [LOG]   ✅ [Admin] checkban (baninfo, isbanned)
+[27/12/2025, 03.21.18] [LOG]   ✅ [Admin] disablebanlog (stopbanlog, banlogoff)
+[27/12/2025, 03.21.18] [LOG]   ✅ [Admin] monitorban (setupbanlog, banlog)
+[27/12/2025, 03.21.18] [LOG]   ✅ [Commands] menupanel (panel, menu)
+[27/12/2025, 03.21.18] [LOG]   ✅ [System] backup (backupdb, exportdb)
+[27/12/2025, 03.21.18] [LOG]   ✅ [Commands] ping (p)
+[27/12/2025, 03.21.18] [LOG]   ✅ [System] backupinfo (listbackup, backups)
+[27/12/2025, 03.21.18] [LOG]   ✅ [System] restore (restoredb, importdb)
+[27/12/2025, 03.21.18] [LOG] 
+📂 Total Commands Loaded: 9
+[27/12/2025, 03.21.18] [LOG] 
+🎭 Loading Events...
+[27/12/2025, 03.21.18] [LOG]   ✅ banMonitor
+[27/12/2025, 03.21.18] [LOG]   ✅ interactionCreate
+[27/12/2025, 03.21.18] [LOG]   ✅ messageCreate
+[27/12/2025, 03.21.18] [LOG]   ✅ modalSubmit
+[27/12/2025, 03.21.18] [LOG]   ✅ ready
+[27/12/2025, 03.21.18] [LOG] 
+📂 Total Events Loaded: 5
+[27/12/2025, 03.21.18] [LOG] 
+🔘 Loading Buttons...
+[27/12/2025, 03.21.18] [LOG] [MYSQL]: Database MySql telah berhasil terhubung!
+[27/12/2025, 03.21.18] [LOG]   ✅ tombol-kirimulang
+[27/12/2025, 03.21.18] [LOG]   ✅ tombol-pendaftaran
+[27/12/2025, 03.21.18] [LOG]   ✅ tombol-reset
+[27/12/2025, 03.21.18] [LOG] 
+📂 Total Buttons Loaded: 4
+[27/12/2025, 03.21.18] [LOG]   ✅ tombol-takerole
+[27/12/2025, 03.21.18] [LOG] 
+📋 Loading Modals...
+[27/12/2025, 03.21.18] [LOG]   ✅ tampilan-pendaftaran
+[27/12/2025, 03.21.18] [LOG] 
+📂 Total Modals Loaded: 1
+[27/12/2025, 03.21.18] [LOG] 
+============================================================
+[27/12/2025, 03.21.18] [LOG] 📊 LOADING SUMMARY
+[27/12/2025, 03.21.18] [LOG] ============================================================
+[27/12/2025, 03.21.18] [LOG] ✅ Commands: 9
+[27/12/2025, 03.21.18] [LOG] ✅ Events: 5
+[27/12/2025, 03.21.18] [LOG] ✅ Buttons: 4
+[27/12/2025, 03.21.18] [LOG] ✅ Modals: 1
+[27/12/2025, 03.21.18] [LOG] ============================================================
+[27/12/2025, 03.21.18] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[27/12/2025, 03.21.18] [LOG] ============================================================
+
+[27/12/2025, 03.21.20] [LOG] 
+==================================================
+[27/12/2025, 03.21.20] [LOG] 🤖 BOT INFORMATION
+[27/12/2025, 03.21.20] [LOG] ==================================================
+[27/12/2025, 03.21.20] [LOG] ✅ Bot logged in as: Register [DRP]#1798
+[27/12/2025, 03.21.20] [LOG] 🆔 Bot ID: 1303893950955786290
+[27/12/2025, 03.21.20] [LOG] 📊 Servers: 3
+[27/12/2025, 03.21.20] [LOG] 📝 Commands: 9
+[27/12/2025, 03.21.20] [LOG] 🔘 Buttons: 4
+[27/12/2025, 03.21.20] [LOG] 👥 Users: 26
+[27/12/2025, 03.21.20] [LOG] ⏰ Started at: 27/12/2025, 03.21.20
+[27/12/2025, 03.21.20] [LOG] 📋 Modals: 1
+[27/12/2025, 03.21.20] [LOG] 🔧 Node: v23.11.1
+[27/12/2025, 03.21.20] [LOG] 📦 Discord.js: v13.17.1
+[27/12/2025, 03.21.20] [LOG] ==================================================
+[27/12/2025, 03.21.20] [LOG] 👨‍💻 Created by: Axel (Drgxel), Ozi (Mozi)
+[27/12/2025, 03.21.20] [LOG] ==================================================
+
+[27/12/2025, 03.21.20] [LOG] 🔨 Ban monitor system loading...
+[27/12/2025, 03.21.20] [LOG] [BOT]: Register [DRP]#1798 Telah Aktif!
+[27/12/2025, 03.21.20] [LOG] ✅ Ban monitor system active (check every 30 seconds)
+[27/12/2025, 03.22.19] [ERROR] (node:38) DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[27/12/2025, 03.22.19] [WARN] ⚠️ Process Warning: DeprecationWarning MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+[27/12/2025, 03.22.19] [LOG] ✅ Ban log monitor setup di #banlogs oleh axelattacker
+[27/12/2025, 03.51.18] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 04.21.18] [LOG] 🧹 Cooldowns cleaned up
+[27/12/2025, 04.51.18] [LOG] 🧹 Cooldowns cleaned up
